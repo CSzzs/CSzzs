@@ -27,23 +27,18 @@ I'm on a mission to become a skilled ML Engineer and contribute to cutting-edge 
 
 ### 1. Object Detection with YOLOv8
 - Trained a custom YOLOv8 model to recognize 10 fish species with **92% accuracy** on test data.
-- GitHub: [Fish Species Detector](https://github.com/CSzzs/fish-species-yolov8)
+- GitHub: [Fish Species Detector](https://github.com/CSzzs/Fish_species_identifying_YOLO_V8.2.2_model)
 
-### 2. Human Activity Recognition
-- End-to-end pipeline classifying walking, jogging, and sitting from smartphone accelerometer data using CNNs/LSTMs.
-- Dataset: UCI Human Activity Recognition Using Smartphones.
-- GitHub: [HAR Sensor Pipeline](https://github.com/CSzzs/har-sensor-pipeline)
-
-### 3. Medical Chatbot 🔬
+### 2. Medical Chatbot 🔬
 - Transformed Gale Medical Encyclopedia into vector embeddings using Hugging Face Sentence Transformers.
 - Deployed a chat service with Pinecone vector store and OpenAI GPT-4o Mini for concise medical Q&A.
-- GitHub: [Medical-LLM-Bot](https://github.com/CSzzs/medical-llm-bot)
+- GitHub: [Medical-LLM-Bot](https://github.com/CSzzs/Medical-chatbot-with-custom-dataset)
 
-### 4. Translator & Conversational AI
+### 3. Translator & Conversational AI
 - Built a real-time translator and chatbot with Streamlit, LangChain, and OpenAI API.
-- GitHub: [Multilingual Translator](https://github.com/CSzzs/multilingual-translator)
+- GitHub: [Multilingual Translator](https://github.com/CSzzs/Language_Translator_with_GPT4o-mini)
 
-### 5. Scikit-Learn Mastery Series
+### 4. Scikit-Learn Mastery Series
 - A collection of 15+ projects covering data cleaning, feature engineering, model selection, and deployment.
 - GitHub: [Scikit-Learn Projects](https://github.com/CSzzs/scikit-learn-projects)
 
